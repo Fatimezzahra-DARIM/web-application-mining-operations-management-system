@@ -15,15 +15,15 @@ Mining equipment is expensive and downtime can be costly. A web application syst
 **Technologies used:**  
 The system will be built using the following technologies:  
 
--HTML for frontend structure and layout.
--CSS (using the bootstrap 5 framework).
--JavaScript.
--ajax , json for data manipulation.
--PHP (oops).
--MySQL for the database.
+✔ HTML for frontend structure and layout.  
+✔ CSS (using the bootstrap 5 framework).  
+✔ JavaScript.  
+✔ ajax , json for data manipulation.  
+✔ PHP (oops).  
+✔ MySQL for the database.  
 
-**Tools:**
-Trello/Jira.
-VSCode.
-WAMP.
-Git/GitHub.
+**Tools:**  
+🔹 Trello/Jira.  
+🔹 VSCode.   
+🔹 WAMP.  
+🔹 Git/GitHub.  
